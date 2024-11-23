@@ -1,8 +1,8 @@
 let songs = [
     {
-        name:'Cham hoa',
+        name:'',
         path:'baihat.mp3',
-        artist: 'MONO',
+        artist: '',
         image:'Hau2.jpg'
 
 
